@@ -1782,6 +1782,12 @@ input, select, textarea {
 			margin: 0 2em 2em 0;
 		}
 
+		.image.yjlee{
+			display:block;
+			width: 50%;
+			margin: 0 auto;
+		}
+
 		.image.centered {
 			display: block;
 			margin: 0 0 2em 0;
